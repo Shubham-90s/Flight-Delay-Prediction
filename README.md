@@ -1,1 +1,1 @@
-# Flight-Delay-Prediction
+Developed a predictive model to forecast flight departure delays using historical flight data. The model prioritizes high-impact factors and distinguishes between different types of delays, such as those caused by weather or operational inefficiencies. The goal of the project was to help airlines manage and reduce delays, thereby improving operational efficiency and passenger satisfaction. This project demonstrated the application of data analytics in solving real-world problems in the aviation industry
